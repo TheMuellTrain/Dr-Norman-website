@@ -1,0 +1,40 @@
+html,body{
+  font-family: Helvectica, sans-serif;
+  text-align: center;
+  min-width:260px;
+  color: black
+}
+#main{
+  background-color: #D3D3D3;
+  margin: 30px;
+  padding: 15px;
+  border: 0px, solid;
+  border-radius: 15px;
+  }
+#description{
+  font-size: 17px;
+  }
+#img-div{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  width: auto;
+  align: center;
+}
+#description{
+  margin: 20px;
+  
+}
+#headline{
+  font-size: 30px;
+  margin: 25px;
+}
+li{
+  text-align: left;
+  margin: 10px;
+}
+#quote{
+  margin: 60px;
+  color: black;
+  font-style: italic;
+}
